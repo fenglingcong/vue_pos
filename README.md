@@ -2,14 +2,14 @@
 
 > A Vue.js project
 ## 感谢与支持
-
-## Build Setup
 ```
 	-  盛洪宇大神（QQ群：524520566）
 	-  http://jspang.com/DemoApi/oftenGoods.php
 	-  http://jspang.com/DemoApi/typeGoods.php
 	
 ```
+
+## Build Setup
 
 
 ``` bash
